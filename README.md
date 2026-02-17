@@ -299,6 +299,7 @@ Use clear, front-facing images for better accuracy.
 
 # 👨‍💻 Author
 
-Andrew Bahgat
-Smart Base Integrated Security & Observatory Control 
+* Andrew Bahgat
+
+* Smart Base Integrated Security & Observatory Control 
 
